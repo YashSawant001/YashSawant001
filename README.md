@@ -17,6 +17,29 @@ I'm a passionate Computer Science student at **Savitribai Phule Pune University 
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏆 [Concierge Multi-Agent Itinerary Generator](https://github.com/YashSawant001/Gemini-AI-Agent-Intensive-Course) - Kaggle Capstone Project
+**Role:** Project Owner | AI Developer | Multi-Agent Systems Expert  
+**Featured in:** Kaggle 5-Day AI Agents Intensive Competition
+
+🎯 **What I Built:**  
+Developed a production-ready multi-agent AI system that generates personalized travel itineraries with **95%+ contextual relevance** using advanced orchestration techniques.
+
+⚙️ **Key Technical Achievements:**
+- 🤖 **Multi-Agent Orchestration:** Implemented SequentialAgent workflow (Context Injection → Planning → Validation) coordinating 3 specialized AI agents
+- 🛠️ **Custom Tool Development:** Engineered Python tools with **<2s response time** for real-time time/location feasibility checks
+- 💡 **Context Engineering (RAG Pattern):** Designed explicit user constraint injection simulating RAG for personalized outputs
+- 📊 **Production Architecture:** Built **scalable ADK pipelines** achieving **90%+ accuracy** for real-time travel recommendations
+- 🌐 **API Integration:** Integrated REST APIs with Google ADK, Gemini 2.0 Flash, LangChain, and multi-agent systems
+- 👥 **Community Impact:** Received **50+ community forks** on Kaggle demonstrating project value
+
+**Tech Stack:** Python, Google ADK, Gemini API, Multi-Agent Systems, RAG, LangChain, REST APIs
+
+📌 **Impact:** Demonstrated mastery of agent orchestration, tool use, and context engineering - key skills for AI/ML Engineering roles.
+
+---
+
 ## 💻 Tech Stack
 
 **Languages:**  
@@ -42,24 +65,6 @@ I'm a passionate Computer Science student at **Savitribai Phule Pune University 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
----
-
-## 🏆 Featured Project
-
-### 🤖 **Concierge Multi-Agent Itinerary Generator**
-*Featured in Kaggle 5-Day AI Agents Intensive Competition*
-
-- Built production-ready multi-agent AI system generating personalized travel itineraries with **95%+ contextual relevance**
-- Orchestrated 3 specialized AI agents (Research, Planning, Validation) using **Google ADK** and **Gemini 2.0 Flash**
-- Implemented **RAG pipelines** achieving **90%+ accuracy** for real-time recommendations
-- Engineered custom Python tools with **<2s response time**
-- **50+ community forks** on Kaggle
-
-**Tech Stack:** Python, Google ADK, Gemini API, Multi-Agent Systems, RAG, LangChain, REST APIs
-
-🔗 [View Project](https://github.com/YashSawant001/Gemini-AI-Agent-Intensive-Course)
-
----
 
 ## 📜 Certifications
 
