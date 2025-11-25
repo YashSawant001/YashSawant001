@@ -68,11 +68,13 @@ Developed a production-ready multi-agent AI system that generates personalized t
 
 ## 📜 Certifications
 
-- ✅ **Oracle Cloud AI Certified Professional**
+- ✅ **Oracle Cloud AI Certified Professional** (Data Science + Generative AI + AI Foundations)
 - ✅ **Master Course in AI & Deep Learning 3.0** - Udemy
 - ✅ **Deloitte Technology Job Simulation**
 - ✅ **7+ AI/ML Certifications**
 - - ✅ **UpGrad Generative AI Foundations Certificate**
+  - - ✅ **McKinsey Forward Program - Core Skills**
+    - - ✅ **Iqigai AI Fellowship Challenge (2025-2026)** - AI Engineer Assessment
 
 ---
 
