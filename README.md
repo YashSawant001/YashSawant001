@@ -72,6 +72,7 @@ Developed a production-ready multi-agent AI system that generates personalized t
 - ✅ **Master Course in AI & Deep Learning 3.0** - Udemy
 - ✅ **Deloitte Technology Job Simulation**
 - ✅ **7+ AI/ML Certifications**
+- - ✅ **UpGrad Generative AI Foundations Certificate**
 
 ---
 
